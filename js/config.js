@@ -5,12 +5,12 @@ var Config = {
 	{
 		"Alias": "Inma, a currar :)",
 		"StopId": 1233,
-		"Lines": [53]
+		"Lines": ["53"]
 	},
 	{
 		"Alias": "Marco, al cole :/",
 		"StopId": 757,
-		"Lines": [38, 106, 110]
+		"Lines": ["38", "106", "110"]
 	}
 	]
 };
