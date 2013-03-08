@@ -1,7 +1,7 @@
 var Dashboard = {
 
 	// refresh every 20 seconds
-	refresh: 20000,
+	refresh: 10000,
 	
 	init:function() {
 		for(i=0; i<Config["BusStop"].length; i++) {
